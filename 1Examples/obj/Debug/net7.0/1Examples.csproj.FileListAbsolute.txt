@@ -1,0 +1,15 @@
+E:\УчебаПрактика\Csharp\1Examples\bin\Debug\net7.0\1Examples.exe
+E:\УчебаПрактика\Csharp\1Examples\bin\Debug\net7.0\1Examples.deps.json
+E:\УчебаПрактика\Csharp\1Examples\bin\Debug\net7.0\1Examples.runtimeconfig.json
+E:\УчебаПрактика\Csharp\1Examples\bin\Debug\net7.0\1Examples.dll
+E:\УчебаПрактика\Csharp\1Examples\bin\Debug\net7.0\1Examples.pdb
+E:\УчебаПрактика\Csharp\1Examples\obj\Debug\net7.0\1Examples.csproj.AssemblyReference.cache
+E:\УчебаПрактика\Csharp\1Examples\obj\Debug\net7.0\1Examples.GeneratedMSBuildEditorConfig.editorconfig
+E:\УчебаПрактика\Csharp\1Examples\obj\Debug\net7.0\1Examples.AssemblyInfoInputs.cache
+E:\УчебаПрактика\Csharp\1Examples\obj\Debug\net7.0\1Examples.AssemblyInfo.cs
+E:\УчебаПрактика\Csharp\1Examples\obj\Debug\net7.0\1Examples.csproj.CoreCompileInputs.cache
+E:\УчебаПрактика\Csharp\1Examples\obj\Debug\net7.0\1Examples.dll
+E:\УчебаПрактика\Csharp\1Examples\obj\Debug\net7.0\refint\1Examples.dll
+E:\УчебаПрактика\Csharp\1Examples\obj\Debug\net7.0\1Examples.pdb
+E:\УчебаПрактика\Csharp\1Examples\obj\Debug\net7.0\1Examples.genruntimeconfig.cache
+E:\УчебаПрактика\Csharp\1Examples\obj\Debug\net7.0\ref\1Examples.dll
